@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103297231950",
+    "project_id": "beerecipe-1c4db",
+    "storage_bucket": "beerecipe-1c4db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103297231950:android:4f5ee1526ce2237f6e671f",
+        "android_client_info": {
+          "package_name": "com.example.beerecipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8FyZrbhz4GofLGnUCOh4-0weQJRZP83I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
